@@ -1,0 +1,27 @@
+{
+  "name": "blackchaose.ascetic-fileget",
+  "version": "1.0.0",
+  "description": "simple chart",
+  "main": "ascetic-fileget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackChaose/ascetic-fileget.git"
+  },
+  "keywords": [
+    "simple component",
+    "get files",
+    "fileget"
+  ],
+  "author": "nikita.s.kalitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackChaose/ascetic-fileget/issues"
+  },
+  "homepage": "https://github.com/BlackChaose/ascetic-fileget#readme",
+  "dependencies": {
+    "lodash": ">=4.17.13"
+  }
+}
