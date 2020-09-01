@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/BlackChaose/ascetic-fileget#readme",
   "dependencies": {
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   }
 }
